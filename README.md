@@ -1,7 +1,7 @@
 <h1> Local de ampla cobertura.</h1>
 <br>
 <br>
-<p> Ai esta mais um projeto que aprendi.</p>
+<p> Ai esta mais um projeto.</p>
 
 :grin:
 <br>
